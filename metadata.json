@@ -1,0 +1,6 @@
+{
+  "name": "Resume Tailoring App",
+  "description": "An ATS-friendly local-first resume editor and optimizer that utilizes Gemini to tailor your resume specifically for a job description, including a built-in ATS checker, dynamic fields, and PDF export with selectable text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
